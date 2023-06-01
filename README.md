@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI100 Project Group50 
+
+Group Member: Zihang Cheng (Allen), NingDing, Ruohan Sun(Sabrina), Jiahao Li(Peter)
